@@ -1,0 +1,5 @@
+﻿  TM_Homework04_Program02.cpp
+D:\main\college\Fall_2023\CIS150\Homework\hw4\Program 2\TM_Homework04_Program02\TM_Homework04_Program02\TM_Homework04_Program02.cpp(43,10): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\main\college\Fall_2023\CIS150\Homework\hw4\Program 2\TM_Homework04_Program02\TM_Homework04_Program02\TM_Homework04_Program02.cpp(43,29): warning C4804: '>=': unsafe use of type 'bool' in operation
+D:\main\college\Fall_2023\CIS150\Homework\hw4\Program 2\TM_Homework04_Program02\TM_Homework04_Program02\TM_Homework04_Program02.cpp(96,4): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TM_Homework04_Program02.vcxproj -> D:\main\college\Fall_2023\CIS150\Homework\hw4\Program 2\TM_Homework04_Program02\x64\Debug\TM_Homework04_Program02.exe
